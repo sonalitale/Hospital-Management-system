@@ -30,7 +30,7 @@ The database includes the following main tables:
 - Track and manage staff information
 - Store prescriptions given by doctors
 - Use of complex SQL joins and subqueries
-- 
+
 # Table Description
 
 | Table Name     | Description                            |
