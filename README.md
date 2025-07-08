@@ -30,3 +30,14 @@ The database includes the following main tables:
 - Track and manage staff information
 - Store prescriptions given by doctors
 - Use of complex SQL joins and subqueries
+- 
+# Table Description
+
+| Table Name     | Description                            |
+|----------------|----------------------------------------|
+| Departments    | dept_id (PK), dept_name                |
+| Doctors        | doctor_id (PK), name, dept_id (FK)     |
+| Patients       | patient_id (PK), name, age, gender     |
+| Appointments   | app_id (PK), patient_id (FK), doctor_id (FK), date |
+| Prescriptions  | pres_id (PK), app_id (FK), medicine    |
+| Staff          | staff_id (PK), name, role, salary      |
