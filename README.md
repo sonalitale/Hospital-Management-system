@@ -1,2 +1,2 @@
 ﻿# Hospital-Management-System-SQL
-This project simulates a simple Hospital Management system 
+This is Live project simulates a simple  Hospital Management system 
