@@ -52,5 +52,5 @@ The database includes the following main tables:
 
 **Sonali Tale**  
 📧 Email: talesonali03@example.com  
-🔗 GitHub: [sonali Tale](https://github.com/sonaliTale)
+🔗 GitHub: [sonalitale](https://github.com/sonaliTale)
 
