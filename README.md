@@ -21,3 +21,12 @@ The database includes the following main tables:
 4. **Appointments** – Maps patients to doctors
 5. **Prescriptions** – Details about patient medicines
 6. **Staff** – Info of non-medical staff like nurses, receptionists
+
+# Features of the Project
+
+- Add, view, and update patient records
+- Assign doctors to departments
+- Schedule and manage appointments
+- Track and manage staff information
+- Store prescriptions given by doctors
+- Use of complex SQL joins and subqueries
