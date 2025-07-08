@@ -11,3 +11,13 @@ It shows how SQL can be used to design real-world database systems using joins, 
 - MySQL 
 - MySQL Workbench / VS Code terminal
 - SQL Queries
+# Database Schema
+
+The database includes the following main tables:
+
+1. **Departments** – Stores hospital departments like Cardiology, Pediatrics, etc.
+2. **Doctors** – Stores doctor info, linked to departments
+3. **Patients** – Holds patient details like name, age, contact info
+4. **Appointments** – Maps patients to doctors
+5. **Prescriptions** – Details about patient medicines
+6. **Staff** – Info of non-medical staff like nurses, receptionists
