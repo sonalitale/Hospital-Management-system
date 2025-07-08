@@ -41,3 +41,4 @@ The database includes the following main tables:
 | Appointments   | app_id (PK), patient_id (FK), doctor_id (FK), date |
 | Prescriptions  | pres_id (PK), app_id (FK), medicine    |
 | Staff          | staff_id (PK), name, role, salary      |
+
