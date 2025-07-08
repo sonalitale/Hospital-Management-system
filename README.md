@@ -42,4 +42,7 @@ The database includes the following main tables:
 | Prescriptions  | pres_id (PK), app_id (FK), medicine    |
 | Staff          | staff_id (PK), name, role, salary      |
 
+# Screenshots 
+
+
 ![image alt](https://github.com/sonalitale/Hospital-Management-system/blob/9f127b95a9bda87004cab26531ea6287d89e5f15/ER%20Diagram.sql.png)
